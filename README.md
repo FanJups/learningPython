@@ -12,3 +12,9 @@ https://stackoverflow.com/questions/3324108/maven-equivalent-for-python
 https://www.google.com/search?q=spyder+dark+theme&oq=spyder+dar&aqs=chrome.1.69i57j0l5.11776j0j7&sourceid=chrome&ie=UTF-8
 
 https://stackoverflow.com/questions/40595961/how-to-change-the-spyder-editor-background-to-dark
+
+## pycharm vs spyder for machine learning
+
+https://www.google.com/search?q=pycharm+vs+spyder+for+machine+learning&oq=pycharm++or+spyder&aqs=chrome.4.69i57j0l5.14326j0j7&sourceid=chrome&ie=UTF-8
+
+https://www.marsja.se/pycharm-vs-spyder-comparing-ides/
