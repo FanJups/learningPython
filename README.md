@@ -1,7 +1,7 @@
 # learningPython
 I am learning python ---> https://www.tutorialspoint.com/python/ & https://www.fun-mooc.fr/courses/course-v1:MinesTelecom+04006+session10/info
 
-PYTHON DISTRIBUTION : ANACONDA
+PYTHON DISTRIBUTION : ANACONDA /
 IDE : SPYDER
 
 ## what is the python equivalent of maven ?
