@@ -18,3 +18,5 @@ https://stackoverflow.com/questions/40595961/how-to-change-the-spyder-editor-bac
 https://www.google.com/search?q=pycharm+vs+spyder+for+machine+learning&oq=pycharm++or+spyder&aqs=chrome.4.69i57j0l5.14326j0j7&sourceid=chrome&ie=UTF-8
 
 https://www.marsja.se/pycharm-vs-spyder-comparing-ides/
+
+https://docs.spyder-ide.org/installation.html
