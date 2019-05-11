@@ -9,6 +9,8 @@ params= {"param1":1.0,
          "param2":2.0,
          "param3":3.0}
 
+# params = dict (param1=1.0, param2=2.0,param3=3.0)
+
 print(type(params))
 print(params)
 
