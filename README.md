@@ -23,3 +23,7 @@ https://www.google.com/search?q=pycharm+vs+spyder+for+machine+learning&oq=pychar
 https://www.marsja.se/pycharm-vs-spyder-comparing-ides/
 
 https://docs.spyder-ide.org/installation.html
+
+## differences-between-ai-and-machine-learning-and-why-it-matters
+
+https://medium.com/datadriveninvestor/differences-between-ai-and-machine-learning-and-why-it-matters-1255b182fc6
