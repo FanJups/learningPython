@@ -35,3 +35,31 @@ https://www.google.com/search?ei=A4veXN-MDYnqary7lLgN&q=anaconda+pycharm&oq=anac
 https://medium.com/infinity-aka-aseem/how-to-setup-pycharm-with-an-anaconda-virtual-environment-already-created-fb927bacbe61
 
 https://medium.com/@GalarnykMichael/setting-up-pycharm-with-anaconda-plus-installing-packages-windows-mac-db2b158bd8c
+
+## install pycharm community windows 10
+
+https://www.google.com/search?q=install+pycharm+community+windows+10&oq=install+pycharm+community&aqs=chrome.3.69i57j0l5.16917j0j7&sourceid=chrome&ie=UTF-8
+
+https://youtu.be/QzcaEELafkE
+
+## where is the anaconda interpreter on windows 10
+
+https://www.google.com/search?q=where+is+the+anaconda+interpreter+on+windows+10&oq=where+is+the+anaconda+interpreter+on+windows+10&aqs=chrome..69i57.21500j0j7&sourceid=chrome&ie=UTF-8
+
+https://docs.anaconda.com/anaconda/user-guide/tasks/integration/python-path/
+
+## using anaconda with pycharm
+
+https://www.google.com/search?ei=95jeXKvYHY7Yae6Er4gO&q=using+anaconda+with+pycharm&oq=using+anaconda+&gs_l=psy-ab.1.1.0i203l10.620801.625296..629024...1.0..0.335.2718.2j8j3j2......0....1..gws-wiz.....6..0i71j35i39j0j0i131j0i67j0i20i263.lHQU_yRSzL8
+
+https://www.jetbrains.com/pycharm/promo/anaconda/
+
+## which environment to choose when working with pytharm and anaconda
+
+https://www.google.com/search?ei=c5veXMHaF82KauHNi5AN&q=wich+environment+to+choose+when+working+with+pytharm+and+anaconda&oq=wich+environment+to+choose+when+working+with+pytharm+and+anaconda&gs_l=psy-ab.3...317335.371660..373684...2.0..0.320.11038.10j40j13j4......0....1..gws-wiz.......0i71j35i39j0i131j0j0i67j0i20i263j0i10j0i70i255j0i10i70i255j0i10i203j0i13j0i22i10i30j0i22i30j0i13i30j0i8i13i30j0i19j0i8i13i30i19j33i160j33i22i29i30j33i21.kApejTvSqDM
+
+https://www.jetbrains.com/help/pycharm/conda-support-creating-conda-virtual-environment.html
+
+
+
+
