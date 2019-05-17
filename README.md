@@ -27,3 +27,11 @@ https://docs.spyder-ide.org/installation.html
 ## differences-between-ai-and-machine-learning-and-why-it-matters
 
 https://medium.com/datadriveninvestor/differences-between-ai-and-machine-learning-and-why-it-matters-1255b182fc6
+
+## anaconda pycharm
+
+https://www.google.com/search?ei=A4veXN-MDYnqary7lLgN&q=anaconda+pycharm&oq=anaconda+pych&gs_l=psy-ab.1.0.0l2j0i203l8.14916.21121..23899...1.0..5.622.4576.0j8j2j3j3j1......0....1..gws-wiz.....6..0i71j35i39j0i67j0i131j0i20i263.xr_I4hNzkYY
+
+https://medium.com/infinity-aka-aseem/how-to-setup-pycharm-with-an-anaconda-virtual-environment-already-created-fb927bacbe61
+
+https://medium.com/@GalarnykMichael/setting-up-pycharm-with-anaconda-plus-installing-packages-windows-mac-db2b158bd8c
