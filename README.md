@@ -78,6 +78,8 @@ https://docs.scipy.org/doc/numpy-1.15.0/reference/generated/numpy.cross.html
 
 https://www.concours-centrale-supelec.fr/CentraleSupelec/MultiY/C2015/Python-matrices.pdf
 
+https://www.courspython.com/tableaux-numpy.html
+
 
 
 
