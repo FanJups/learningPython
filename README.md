@@ -68,6 +68,16 @@ https://medium.com/@mindfiresolutions.usa/python-7-important-reasons-why-you-sho
 
 https://www.python.org/about/apps/
 
+## produit vectoriel de 2 matrices python
+
+https://www.google.com/search?q=produit+vectoriel+de+2+matrices+python&oq=produit+vectoriel+de+2+matrices+python&aqs=chrome..69i57.15825j0j7&sourceid=chrome&ie=UTF-8
+
+http://math.mad.free.fr/depot/numpy/base.html
+
+https://docs.scipy.org/doc/numpy-1.15.0/reference/generated/numpy.cross.html
+
+https://www.concours-centrale-supelec.fr/CentraleSupelec/MultiY/C2015/Python-matrices.pdf
+
 
 
 
