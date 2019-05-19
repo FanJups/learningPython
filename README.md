@@ -60,6 +60,14 @@ https://www.google.com/search?ei=c5veXMHaF82KauHNi5AN&q=wich+environment+to+choo
 
 https://www.jetbrains.com/help/pycharm/conda-support-creating-conda-virtual-environment.html
 
+## use of python language
+
+https://www.google.com/search?q=use+of+python+language&oq=use+of+pyth&aqs=chrome.2.69i57j0l5.8664j0j7&sourceid=chrome&ie=UTF-8
+
+https://medium.com/@mindfiresolutions.usa/python-7-important-reasons-why-you-should-use-python-5801a98a0d0b
+
+https://www.python.org/about/apps/
+
 
 
 
