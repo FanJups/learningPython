@@ -156,6 +156,20 @@ https://docs.scipy.org/doc/numpy/user/basics.types.html
 
 http://joergdietrich.github.io/floating-point-fun.html
 
+## standardisation des données python
+
+https://www.google.com/search?q=standardisation+des+donn%C3%A9es+python&oq=standardisation+pyt&aqs=chrome.2.69i57j0l4.20493j1j7&sourceid=chrome&ie=UTF-8
+
+https://mrmint.fr/data-preprocessing-feature-scaling-python
+
+## column standardization python
+
+https://www.google.com/search?ei=V8_uXPXZBI2IlwSI3KLAAQ&q=column+standardization+python&oq=standardization+pyth&gs_l=psy-ab.1.8.0j0i22i30l9.2508222.2530220..2534626...4.0..5.944.6274.14j9j4-4j2j1......0....1..gws-wiz.....6..0i71j35i39j0i67j0i131j0i10j0i20i263.dLfOMZOePW0
+
+https://medium.com/@rrfd/standardize-or-normalize-examples-in-python-e3f174b65dfc
+
+
+
 
 
 
