@@ -80,6 +80,18 @@ https://www.concours-centrale-supelec.fr/CentraleSupelec/MultiY/C2015/Python-mat
 
 https://www.courspython.com/tableaux-numpy.html
 
+## Utiliser la librairie Numpy de Python pour calculer l’estimateur de moindres carrés
+
+https://www.google.com/search?q=Utiliser+la+librairie+Numpy+de+Python+pour+calculer+l%E2%80%99estimateur+de+moindres+carr%C3%A9s&oq=Utiliser+la+librairie+Numpy+de+Python+pour+calculer+l%E2%80%99estimateur+de+moindres+carr%C3%A9s&aqs=chrome..69i57.1484j0j7&sourceid=chrome&ie=UTF-8
+
+https://python.developpez.com/tutoriels/cours-intensif-scientifique/module-numpy-scipy/
+
+## estimateur des moindres carrés python
+
+https://www.google.com/search?q=estimateur+des+moindres+carr%C3%A9s+python&oq=estimateur+des+moindres+carr%C3%A9s&aqs=chrome.4.69i57j69i61j0l4.4412j0j7&sourceid=chrome&ie=UTF-8
+
+http://www.f-legrand.fr/scidoc/docimg/numerique/optimisation/moindrecarre/moindrecarre.html
+
 
 
 
