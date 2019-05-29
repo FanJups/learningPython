@@ -92,6 +92,70 @@ https://www.google.com/search?q=estimateur+des+moindres+carr%C3%A9s+python&oq=es
 
 http://www.f-legrand.fr/scidoc/docimg/numerique/optimisation/moindrecarre/moindrecarre.html
 
+https://docs.scipy.org/doc/numpy/reference/generated/numpy.linalg.lstsq.html
+
+http://www.python-simple.com/python-numpy-scipy/fitting-regression.php
+
+## array zeros python
+
+https://www.google.com/search?q=array+zeros+python&oq=array+zer&aqs=chrome.1.69i57j0l5.8908j0j7&sourceid=chrome&ie=UTF-8
+
+https://docs.scipy.org/doc/numpy/reference/generated/numpy.zeros.html
+
+## matrice identité python
+
+https://www.google.com/search?ei=N67uXIThJ4yMlwSFuITgCw&q=matrice+identit%C3%A9+python&oq=matrice+identit%C3%A9&gs_l=psy-ab.1.6.0i71l8.0.0..1424222...0.0..0.0.0.......0......gws-wiz.7F4hGQ2NL6M
+
+http://www.labri.fr/perso/renault/working/teaching/algonum/sheet.php
+
+## np.linalg.eigvals
+
+https://www.google.com/search?q=np.linalg.eigvals&oq=np.linalg.eigvals+&aqs=chrome..69i57j0.4923j0j7&sourceid=chrome&ie=UTF-8
+
+## rang matrice python
+
+https://www.google.com/search?q=rang+matrice+python&oq=rang+matrice+python&aqs=chrome..69i57.8450j0j7&sourceid=chrome&ie=UTF-8
+
+http://www.les-mathematiques.net/phorum/read.php?15,1108521
+
+https://fr.wikipedia.org/wiki/Rang_(math%C3%A9matiques)
+
+http://math.mad.free.fr/depot/numpy/calmat.html
+
+## np.genfromtxt
+
+https://www.google.com/search?q=np.genfromtxt&oq=np.genfromtxt&aqs=chrome..69i57j0l5.6565j0j7&sourceid=chrome&ie=UTF-8
+
+https://docs.scipy.org/doc/numpy/reference/generated/numpy.genfromtxt.html
+
+## dtype python
+
+https://www.google.com/search?q=dtype+python&oq=dtype&aqs=chrome.1.69i57j0l5.8266j0j7&sourceid=chrome&ie=UTF-8
+
+https://docs.scipy.org/doc/numpy/reference/arrays.dtypes.html
+
+## type float precision python
+
+https://www.google.com/search?ei=2MbuXP7nFKGflwTF9oWwBQ&q=type+float+precision+python&oq=type+float+precision+python&gs_l=psy-ab.3..0i22i30.1429.3549..3796...0.0..0.351.1038.0j3j1j1......0....1..gws-wiz.......0i71j33i22i29i30.fjHH2ICtoCY
+
+https://www.geeksforgeeks.org/precision-handling-python/
+
+## dtype float precision python
+
+https://www.google.com/search?ei=38buXLyuBYiVlwTFnq6QCg&q=dtype+float+precision+python&oq=dtype+float+precision+python&gs_l=psy-ab.3...592508.592508..594882...0.0..0.88.88.1......0....1..gws-wiz.......0i71.SfKejjhEjV0
+
+https://docs.scipy.org/doc/numpy-1.13.0/user/basics.types.html
+
+## np float type precision
+
+https://www.google.com/search?ei=YMruXNX0OqGRlwS044uICg&q=np+float+dtype+plrecision&oq=np+float+dtype+plrecision&gs_l=psy-ab.3..0i22i30.11267.45403..45745...0.0..0.169.4353.21j21......0....1..gws-wiz.......0i71j35i39i19j0i22i10i30i19j0i22i30i19j0i30i19j0i5i30i19j0i8i30i19j0i19j0i10i19j0i10i30i19j0j0i20i263j35i39j0i67j0i131j0i22i10i30j33i22i29i30j33i160.TW63VL3UTME
+
+https://stackoverflow.com/questions/25181642/how-set-numpy-floating-point-accuracy
+
+https://docs.scipy.org/doc/numpy/user/basics.types.html
+
+http://joergdietrich.github.io/floating-point-fun.html
+
 
 
 
