@@ -172,6 +172,10 @@ https://medium.com/@rrfd/standardize-or-normalize-examples-in-python-e3f174b65df
 
 https://github.com/tirthajyoti/Deep-learning-with-Python
 
+## How a simple mix of object-oriented programming can sharpen your deep learning prototype
+
+https://towardsdatascience.com/how-a-simple-mix-of-object-oriented-programming-can-sharpen-your-deep-learning-prototype-19893bd969bd
+
 
 
 
