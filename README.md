@@ -168,6 +168,10 @@ https://www.google.com/search?ei=V8_uXPXZBI2IlwSI3KLAAQ&q=column+standardization
 
 https://medium.com/@rrfd/standardize-or-normalize-examples-in-python-e3f174b65dfc
 
+## deep learning python
+
+https://github.com/tirthajyoti/Deep-learning-with-Python
+
 
 
 
