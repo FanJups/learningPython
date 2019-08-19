@@ -176,6 +176,10 @@ https://github.com/tirthajyoti/Deep-learning-with-Python
 
 https://towardsdatascience.com/how-a-simple-mix-of-object-oriented-programming-can-sharpen-your-deep-learning-prototype-19893bd969bd
 
+## How to Get Started as a Developer in AI
+
+https://towardsdatascience.com/how-to-get-started-as-a-developer-in-ai-9116a2326d5f
+
 
 
 
