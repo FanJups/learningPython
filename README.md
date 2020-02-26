@@ -1,6 +1,12 @@
 # learningPython
 I am learning python ---> https://www.tutorialspoint.com/python/ & https://www.fun-mooc.fr/courses/course-v1:MinesTelecom+04006+session10/info
 
+
+# Python in 10 weeks
+
+https://dzone.com/articles/python-learning-journey-take-this-10-weeks-transfo
+
+
 PYTHON DISTRIBUTION : ANACONDA /
 IDE : SPYDER
 
